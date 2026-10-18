@@ -1,0 +1,10 @@
+condition,model,changed_predictions,prediction_change_rate
+Punctuation Removed,Logistic Regression,0,0.0
+Punctuation Removed,Linear SVM,0,0.0
+Punctuation Removed,BiLSTM,0,0.0
+5% Token Deletion,Logistic Regression,479,0.012293399035006673
+5% Token Deletion,Linear SVM,617,0.01583512986346371
+5% Token Deletion,BiLSTM,2005,0.05145775587722
+10% Token Deletion,Logistic Regression,771,0.01978749615029258
+10% Token Deletion,Linear SVM,976,0.025048762960681654
+10% Token Deletion,BiLSTM,2825,0.0725028231187763

@@ -1,0 +1,12 @@
+Metric,Value
+CEAS-08 emails evaluated,38964
+Logistic Regression errors,12958
+Linear SVM errors,12167
+BiLSTM errors,16934
+BiLSTM false negatives,3134
+BiLSTM-only false negatives,3116
+BiLSTM FN rate - truncated,47.41%
+BiLSTM FN rate - non-truncated,0.61%
+Truncation odds ratio,146.86
+Chi-square statistic,15410.42
+Chi-square p-value,< 0.001
